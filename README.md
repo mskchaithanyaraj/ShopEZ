@@ -29,7 +29,7 @@ The project is organized into two main folders:
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/SnehaYadavWorld11/Mern_Stack-ShopEZ.git
+git clone https://github.com/mskchaithanyaraj/ShopEZ
 cd Mern_Stack-ShopE
 
 ### 2. Install Dependencies
